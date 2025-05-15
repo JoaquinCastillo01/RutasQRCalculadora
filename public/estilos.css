@@ -1,0 +1,32 @@
+.calculadora{
+    width: 300px;
+    margin: 50px auto;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: beige;
+}
+
+input[type="button"]{
+    width: 60px;
+    margin: 5px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+body{
+    text-align: center;
+    color: white;
+    background-color: rgb(25, 47, 87);
+}
+
+a{
+    color: yellow;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
